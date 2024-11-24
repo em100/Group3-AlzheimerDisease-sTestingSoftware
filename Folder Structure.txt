@@ -1,0 +1,10 @@
+Folder Structure
+/alzheimer_testing_software
+    ├── database.py
+    ├── user_model.py
+    ├── cognitive_test.py
+    ├── genetic_data.py
+    ├── lifestyle_data.py
+    ├── login_view_model.py
+    ├── user_view.py
+    └── main.py
